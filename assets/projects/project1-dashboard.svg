@@ -1,0 +1,60 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="110" y1="70" x2="1060" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1513"/>
+      <stop offset="1" stop-color="#0B0A09"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="182" y1="160" x2="962" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#221B18"/>
+      <stop offset="1" stop-color="#120F0D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="814" y1="316" x2="1038" y2="486" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DA291C"/>
+      <stop offset="1" stop-color="#A38F76"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="982" cy="124" r="160" fill="#DA291C" fill-opacity="0.12"/>
+  <circle cx="138" cy="774" r="210" fill="#A38F76" fill-opacity="0.1"/>
+  <rect x="110" y="92" width="980" height="716" rx="34" fill="url(#panel)" stroke="#3E342C" stroke-width="2"/>
+
+  <text x="178" y="170" fill="#A38F76" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6">PROJECT 01</text>
+  <text x="178" y="228" fill="#F7F2EB" font-family="Arial, sans-serif" font-size="54" font-weight="800">DATA CLEANUP SYSTEM</text>
+  <text x="178" y="272" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="26">Build a comparable influencer performance dataset</text>
+
+  <rect x="178" y="322" width="300" height="136" rx="22" fill="#161210" stroke="#4A3F37"/>
+  <text x="212" y="368" fill="#A38F76" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">DATA ISSUE</text>
+  <text x="212" y="422" fill="#F7F2EB" font-family="Arial, sans-serif" font-size="56" font-weight="800">20+</text>
+  <text x="212" y="452" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="22">brands with mismatched influencer IDs</text>
+
+  <rect x="500" y="322" width="260" height="136" rx="22" fill="#161210" stroke="#4A3F37"/>
+  <text x="534" y="368" fill="#A38F76" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">ACTION</text>
+  <text x="534" y="422" fill="#F7F2EB" font-family="Arial, sans-serif" font-size="54" font-weight="800">1 month</text>
+  <text x="534" y="452" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="22">cross-check and guide rollout</text>
+
+  <rect x="782" y="322" width="240" height="136" rx="22" fill="url(#accent)"/>
+  <text x="816" y="368" fill="#FFF8F4" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">RESULT</text>
+  <text x="816" y="422" fill="#FFF8F4" font-family="Arial, sans-serif" font-size="56" font-weight="800">+15%</text>
+  <text x="816" y="452" fill="#FFF8F4" font-family="Arial, sans-serif" font-size="22">data accuracy improvement</text>
+
+  <rect x="178" y="500" width="844" height="244" rx="26" fill="#161210" stroke="#4A3F37"/>
+  <text x="214" y="548" fill="#A38F76" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">UNIFIED ANALYSIS FLOW</text>
+  <line x1="214" y1="676" x2="986" y2="676" stroke="#3E342C" stroke-width="2"/>
+  <line x1="214" y1="626" x2="986" y2="626" stroke="#2C2521" stroke-width="2"/>
+
+  <rect x="240" y="602" width="100" height="74" rx="16" fill="#2B221E"/>
+  <rect x="370" y="566" width="100" height="110" rx="16" fill="#564A40"/>
+  <rect x="500" y="536" width="100" height="140" rx="16" fill="#75675A"/>
+  <rect x="630" y="504" width="100" height="172" rx="16" fill="#978877"/>
+  <rect x="760" y="462" width="100" height="214" rx="16" fill="#BAAA93"/>
+  <rect x="890" y="418" width="100" height="258" rx="16" fill="#DA291C"/>
+
+  <text x="236" y="714" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="18">Raw data</text>
+  <text x="363" y="714" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="18">Duplicate</text>
+  <text x="486" y="714" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="18">Unified ID</text>
+  <text x="626" y="714" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="18">Validation</text>
+  <text x="782" y="714" fill="#CFC2B5" font-family="Arial, sans-serif" font-size="18">Guide</text>
+  <text x="890" y="714" fill="#F7F2EB" font-family="Arial, sans-serif" font-size="18">Decision</text>
+
+  <text x="214" y="782" fill="#F7F2EB" font-family="Arial, sans-serif" font-size="26" font-weight="700">From distorted reporting to a trusted decision-making dashboard</text>
+</svg>
